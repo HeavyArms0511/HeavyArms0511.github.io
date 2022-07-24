@@ -1,0 +1,27 @@
+h1{
+    
+    color: red;
+}
+body {
+    color: white;
+    background-image: url("https://wallpaperaccess.com/full/5434181.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    font-size: larger
+}
+*{
+    text-align:center
+}
+ul{
+    list-style-position: inside;
+}
+#board{
+    display: flex;
+    justify-content: center
+}
+#gravestones{
+    font-size:100px
+}
+footer{
+    color: white
+}
